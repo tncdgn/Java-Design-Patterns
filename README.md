@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/tncdgn/java-design-patterns.svg?branch=master)](https://travis-ci.com/tncdgn/java-design-patterns)
 # Description:
 
 This is the collection of best known design patterns and sample codes to show how to implement them in java.
