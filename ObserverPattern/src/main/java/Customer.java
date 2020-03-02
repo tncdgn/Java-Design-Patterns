@@ -1,0 +1,21 @@
+public class Customer implements Observer {
+    private String name;
+
+    public Customer(String name) {
+        this.name = name;
+    }
+
+    @Override
+    public void notify(String message) {
+        System.out.println(message);
+    }
+
+    @Override
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+}

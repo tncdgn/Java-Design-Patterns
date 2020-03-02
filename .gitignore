@@ -21,3 +21,31 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+.idea/encodings.xml
+.idea/vcs.xml
+AbstractFactoryPattern/target/maven-archiver/pom.properties
+AdapterPattern/target/maven-archiver/pom.properties
+BridgePattern/target/maven-archiver/pom.properties
+BuilderPattern/target/maven-archiver/pom.properties
+ChainOfResponsibilityPattern/target/maven-archiver/pom.properties
+.idea/workspace.xml
+CommandPattern/target/maven-archiver/pom.properties
+CompositePattern/target/maven-archiver/pom.properties
+DecoratorPattern/target/maven-archiver/pom.properties
+FacadePattern/target/maven-archiver/pom.properties
+FactoryPattern/target/maven-archiver/pom.properties
+FlyWeightPattern/target/maven-archiver/pom.properties
+InterpreterPattern/target/maven-archiver/pom.properties
+IteratorPattern/target/maven-archiver/pom.properties
+MediatorPattern/target/maven-archiver/pom.properties
+MementoPattern/target/maven-archiver/pom.properties
+NullObjectPattern/target/maven-archiver/pom.properties
+ObjectPoolPattern/target/maven-archiver/pom.properties
+ObserverPattern/target/maven-archiver/pom.properties
+PrivateClassDataPattern/target/maven-archiver/pom.properties
+PrototypePattern/target/maven-archiver/pom.properties
+ProxyPattern/target/maven-archiver/pom.properties
+SingletonPattern/target/maven-archiver/pom.properties
+StatePattern/target/maven-archiver/pom.properties
+TemplatePattern/target/maven-archiver/pom.properties
+VisitorPattern/target/maven-archiver/pom.properties
