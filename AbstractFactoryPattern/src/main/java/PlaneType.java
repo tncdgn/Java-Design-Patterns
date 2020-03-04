@@ -1,6 +1,6 @@
 public enum PlaneType {
-    AIRBUS(AirBus.class.getName(), AirBus.class),
-    BOEING(Boeing.class.getName(), Boeing.class);
+    AIRBUS(Iphone.class.getName(), Iphone.class),
+    BOEING(Galaxy.class.getName(), Galaxy.class);
 
     private final String planeClassName;
     private final Class<?> classType;
